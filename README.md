@@ -6,3 +6,5 @@ This dashboard was created as part of mini _project during traing at Datamites.
 
 
 This interactive dashboard contain information about sales in the india.
+
+Create data using raw file into cleanse data 
